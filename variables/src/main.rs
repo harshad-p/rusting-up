@@ -11,4 +11,10 @@ fn main() {
     let y = y * 2;
     println!("The value of y after doubling it is: {y}");
 
+    println!("Showcasing Constants");
+    const Z : i32 = 2;
+    println!("The value of z is: {Z}");
+    let Z = Z * 2;
+    println!("The value of z after doubling it is: {Z}");
+
 }
