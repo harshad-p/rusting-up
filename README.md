@@ -8,3 +8,5 @@ Created a first conventional Hello World program, and then the same program, but
 Jumped to Chapter 3. Finished testing out different scenarios possible with immutable variables, making them mutable, and shadowing variables. Also tested constants. 
 ## Day 3
 Learnt about integer scalar data type. 
+## Day 4
+Learnt about floating point scalar data type. 
