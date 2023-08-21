@@ -3,8 +3,8 @@ fn main() {
     // Although, the decimal point is not displayed on the console. 
     let floating_point_32 :f32 = -255.0;
 
-    // If the type is not specified, it takes the type of the variable being assigned. 
-    // It is not initialized as a 64-bit floating point number. 
+    // By default, a fp number is initialized as f64. 
+    // But when initializing by assigning a variable, it takes the type of the variable being assigned. 
     // Also, a 32-bit fp number cannot be assigned to 64-bit variable. 
     // let floating_point_64 :f64 = floating_point_32; // This does not work
     
