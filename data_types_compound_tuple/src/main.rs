@@ -11,5 +11,5 @@ fn main() {
     let (unsigned_8_int, floating_point_32, character, boolean) = t2;
     println!("Tuples: {unsigned_8_int}, {floating_point_32}, {character}, {boolean}");
 
-    let _t3 = ();
+    let _t3 = (); // Cannot access value in empty tuple. 
 }
