@@ -10,4 +10,6 @@ fn main() {
     let t2: (u8, f32, char, bool) = (11, 22.22, 'a', true);
     let (unsigned_8_int, floating_point_32, character, boolean) = t2;
     println!("Tuples: {unsigned_8_int}, {floating_point_32}, {character}, {boolean}");
+
+    let _t3 = ();
 }
