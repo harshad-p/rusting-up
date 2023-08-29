@@ -10,3 +10,5 @@ Jumped to Chapter 3. Finished testing out different scenarios possible with immu
 Learnt about integer scalar data type. 
 ## Day 4
 Learnt about floating point scalar data type. 
+## Day 5 - 8
+Learnt about the remaining scalar types- character and boolean variables. Then learnt about the Compound type variables- Tuples and Arrays. 
