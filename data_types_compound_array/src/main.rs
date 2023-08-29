@@ -14,4 +14,12 @@ fn main() {
     let third = a2[2];
     let seventh = a2[6];
     println!("Array elements: First: {first}, Third: {third}, Seventh: {seventh}");
+
+    // Array initialization by specifying the initial value to fill and length
+    let a3 = [-1; 7];
+    // I do not know yet how to access the array elements directly in the print stmt. 
+    let first = a3[0];
+    let third = a3[2];
+    let seventh = a3[6];
+    println!("Array elements: First: {first}, Third: {third}, Seventh: {seventh}");
 }
