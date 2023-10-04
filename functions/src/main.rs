@@ -1,9 +1,10 @@
 fn main() {
     println!("Hello from main function.");
-    let function_variable = 5;
-    another_function(function_variable);
+    let value = 5;
+    let unit = 'm';
+    print_value_with_unit(value, unit);
 }
 
-fn another_function(function_variable: i32) {
-    println!("Hello from another function. I received this: {function_variable}");
+fn print_value_with_unit(value: i32, unit: char) {
+    println!("The value is: {value}{unit}.");
 }
