@@ -14,3 +14,5 @@ Learnt about floating point scalar data type.
 Learnt about the remaining scalar types- character and boolean variables. Then learnt about the Compound type variables- Tuples and Arrays. 
 ## Day 9
 Learnt about Rust functions. 
+## Day 10
+Learnt about basic comments in Rust and added comments to the ***functions*** project. 
